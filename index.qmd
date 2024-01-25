@@ -1,5 +1,5 @@
 ---
-title: "Course Title"
+title: "Coding Initiative @ IIT Gandhinagar"
 ---
 
-Course info & details here
+This is the website for all updates about the events conducted by the Coding Club.
